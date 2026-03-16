@@ -1,7 +1,7 @@
 # 👨‍💻 Hyacinthe WABOE | Ingénierie Logicielle & Science des Données
 
 ### 🎯 Vers l'optimisation des systèmes et de la donnée
-Actuellement en **L3 MIASHS** à l'Université Toulouse - Jean Jaurès, je me spécialise dans la création de ponts entre le développement robuste et l'analyse statistique rigoureuse. Mon objectif immédiat est d'intégrer le **Master ISM-AG** en alternance pour appliquer ces compétences au secteur industriel.
+Actuellement en **L3 MIASHS** à l'Université Toulouse - Jean Jaurès, je me spécialise dans la création de ponts entre le développement robuste et l'analyse statistique rigoureuse. Mon objectif immédiat est d'intégrer un **Master** en alternance pour appliquer ces compétences au secteur industriel.
 
 ---
 
