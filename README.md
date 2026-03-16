@@ -1,32 +1,55 @@
-# 👋 Salut, moi c'est Hyacinthe !
+# 👨‍💻 Hyacinthe WABOE | Ingénierie Logicielle & Science des Données
 
-🎓 **Étudiant en L3 MIASHS (Maths & Informatique Appliquées aux SHS) @ UT2J** | 🚀 En route vers un Master ISM-AG
+### 🎯 Vers l'optimisation des systèmes et de la donnée
+Actuellement en **L3 MIASHS** à l'Université Toulouse - Jean Jaurès, je me spécialise dans la création de ponts entre le développement robuste et l'analyse statistique rigoureuse. Mon objectif immédiat est d'intégrer le **Master ISM-AG** en alternance pour appliquer ces compétences au secteur industriel.
 
-Passionné par l'ingénierie logicielle et la science des données, mon cursus hybride me permet de combiner rigueur statistique et développement logiciel pour créer des solutions d'optimisation performantes.
+---
 
-## 🛠️ Arsenal Technique
+## 🚀 Ce que je fais au quotidien
+- **Conception Logicielle :** J'aime structurer des projets complexes en utilisant des architectures propres comme le **MVC**.
+- **Exploration de Données :** Je transforme des jeux de données bruts en insights visuels et exploitables via **R** et **Python**.
+- **Résolution de Problèmes :** Passionné par l'algorithmique et l'optimisation, du bas niveau (C++) au scripting haut niveau.
 
-* [cite_start]**Data Science & Stats :** Python (Pandas, NumPy, Matplotlib), R, SQL[cite: 232].
-* [cite_start]**Développement :** C++ (POO, Design Patterns), Python (Architecture MVC, CustomTkinter)[cite: 231].
-* [cite_start]**Modélisation & Outils :** UML, Git, Gestion de versions par branches[cite: 182, 185].
+---
 
-## 🚀 Projets à la une
+## 🧰 Ma Boîte à Outils
 
-### 🟦 DreamPark — Simulation de Parking
-**Algorithmique et Gestion de flux**
-* [cite_start]**Objectif :** Simuler la gestion d'un parking en temps réel avec contraintes (places, types de véhicules)[cite: 178].
-* [cite_start]**Tech :** Python, Logique événementielle, Architecture MVC, GUI CustomTkinter[cite: 180, 183].
+| Domaine | Technologies & Méthodes |
+| :--- | :--- |
+| **Langages de programmation** | Python, C++, SQL, R |
+| **Data & Stats** | Pandas, NumPy, Matplotlib, FactoMineR (ACP/AFCM) |
+| **Ingénierie Logicielle** | Architecture MVC, POO avancée, UML, Tests unitaires |
+| **Outils & DevOps** | Git (Gestion de versions par branches), Makefile |
 
-### ⚔️ Auto-Battler Engine — Moteur de Jeu
-**Architecture Logicielle & Programmation Système**
-* [cite_start]**Objectif :** Créer un simulateur de combats autonomes reposant sur une architecture modulaire et extensible[cite: 188].
-* [cite_start]**Tech :** C++, Programmation Orientée Objet (Héritage/Polymorphisme), Gestion mémoire dynamique[cite: 190, 191].
+---
 
-### 🏉 ACP Rugby — Analyse Multidimensionnelle
-**L'alliance des Stats et du Sport**
-* [cite_start]**Objectif :** Explorer et classifier les profils de joueurs via une Analyse en Composantes Principales[cite: 194].
-* [cite_start]**Tech :** R, Méthodes factorielles (ACP, AFCM), Visualisation de données[cite: 196].
+## 🏗️ Projets Majeurs en Détail
 
-## 📬 Me contacter
-* [cite_start]**Email :** waboehyacinthe7@gmail.com [cite: 223]
-* [cite_start]**Lieu :** Toulouse, France [cite: 226]
+### 🅿️ DreamPark — Gestion de Parking Intelligente
+*Simulateur complet de flux de véhicules avec interface de supervision.*
+- **Le défi :** Gérer l'attribution dynamique de places avec des contraintes de types de véhicules.
+- **Ma solution :** Une architecture Python 100% orientée objet, documentée via PyDoc et testée rigoureusement.
+- **Le + technique :** Implémentation d'une GUI fluide avec CustomTkinter.
+
+### 🎮 Auto-Battler Engine — Moteur de Combat Autonome
+*Système de simulation de combat modulaire en C++.*
+- **Focus :** Maîtrise totale de la mémoire dynamique et des patrons de conception (*Design Patterns*).
+- **Architecture :** Utilisation intensive du polymorphisme pour permettre l'extension facile de nouvelles classes de personnages.
+
+### 🏉 Rugby Analytics — Analyse Statistique Multidimensionnelle
+*Exploration de données sportives complexes.*
+- **Méthodologie :** Réduction de dimension via ACP et AFCM pour identifier des profils de joueurs.
+- **Résultat :** Traduction de statistiques abstraites en décisions concrètes de classification.
+
+---
+
+## 📈 Mes Objectifs pour 2026
+- 🎓 Valider ma Licence MIASHS avec mention.
+- 🤝 Décrocher un contrat d'alternance en **Ingénierie Data**.
+- 🛠️ Continuer à enrichir ma bibliothèque de projets Open Source ici même.
+
+---
+
+## 📫 Contactez-moi
+- **Email :** waboehyacinthe7@gmail.com
+- **Localisation :** Toulouse, France
