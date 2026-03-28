@@ -36,10 +36,10 @@ Actuellement en **L3 MIASHS** à l'Université Toulouse - Jean Jaurès, je me sp
 - **Focus :** Maîtrise totale de la mémoire dynamique et des patrons de conception (*Design Patterns*).
 - **Architecture :** Utilisation intensive du polymorphisme pour permettre l'extension facile de nouvelles classes de personnages.
 
-### 🏉 Rugby Analytics — Analyse Statistique Multidimensionnelle
-*Exploration de données sportives complexes.*
-- **Méthodologie :** Réduction de dimension via ACP et AFCM pour identifier des profils de joueurs.
-- **Résultat :** Traduction de statistiques abstraites en décisions concrètes de classification.
+### 🌱 Mon Empreinte Carbone — Calculateur Écologique Web
+*Application web interactive de sensibilisation à l'empreinte carbone.*
+- **Méthodologie :** Développement frontend (HTML/CSS) et logique en JavaScript avec appels asynchrones à l'API publique Impact CO2.
+- **Résultat :** Un outil de calcul dynamique intégrant des comparaisons visuelles et des graphiques générés avec Chart.js.
 
 ---
 
