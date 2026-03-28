@@ -16,9 +16,9 @@ Actuellement en **L3 MIASHS** à l'Université Toulouse - Jean Jaurès, je me sp
 
 | Domaine | Technologies & Méthodes |
 | :--- | :--- |
-| **Langages de programmation** | Python, C++, SQL, R |
+| **Langages de programmation** | Python, C++, SQL, R, JavaScript |
 | **Data & Stats** | Pandas, NumPy, Matplotlib, FactoMineR (ACP/AFCM) |
-| **Ingénierie Logicielle** | Architecture MVC, POO avancée, UML, Tests unitaires |
+| **Ingénierie Logicielle** | Architecture MVC, React, POO avancée, UML, Tests unitaires |
 | **Outils & DevOps** | Git (Gestion de versions par branches), Makefile |
 
 ---
@@ -40,6 +40,12 @@ Actuellement en **L3 MIASHS** à l'Université Toulouse - Jean Jaurès, je me sp
 *Application web interactive de sensibilisation à l'empreinte carbone.*
 - **Méthodologie :** Développement frontend (HTML/CSS) et logique en JavaScript avec appels asynchrones à l'API publique Impact CO2.
 - **Résultat :** Un outil de calcul dynamique intégrant des comparaisons visuelles et des graphiques générés avec Chart.js.
+
+### 🃏 League of Stones — Interface React Interactive
+*Jeu de collection de cartes web interactif (basé sur l'univers League of Legends).*
+- **Le défi :** Développer un système de filtrage, de pagination et de création de "deck" personnalisé (limité à 20 cartes).
+- **Ma solution :** Architecture front-end moderne en **React**, gérant les états complexes et la persistance des données du deck utilisateur via le `localStorage`.
+- **Le + technique :** Intégration d'une API REST externe asynchrone et utilisation du routage dynamique (`react-router`) pour la navigation entre les vues de liste et de détail des cartes.
 
 ---
 
