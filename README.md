@@ -25,6 +25,13 @@ Actuellement en **L3 MIASHS** à l'Université Toulouse - Jean Jaurès, je me sp
 
 ## 🏗️ Projets Majeurs en Détail
 
+### 🤖 Assistant RAG pour Moodle — Stage de Licence 3
+*Assistant pédagogique capable de répondre à partir des PDF d'un cours Moodle.*
+- **Le défi :** Intégrer une IA utile aux étudiants tout en limitant les hallucinations et l'envoi de documents vers des services tiers.
+- **Ma solution :** Un plugin Moodle relié à un backend FastAPI, avec embeddings locaux, recherche hybride **FAISS + BM25/RRF**, citations des sources et indexation asynchrone.
+- **Le + technique :** Cache SHA-256 par PDF, OCR optionnel, contrôle des réponses sensibles et suite de 50 tests automatisés.
+- **Dépôt :** [assistant-rag-moodle](https://github.com/hyacinthe-waboe/assistant-rag-moodle)
+
 ### 🅿️ DreamPark — Gestion de Parking Intelligente
 *Simulateur complet de flux de véhicules avec interface de supervision.*
 - **Le défi :** Gérer l'attribution dynamique de places avec des contraintes de types de véhicules.
