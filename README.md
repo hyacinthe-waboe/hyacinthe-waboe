@@ -1,48 +1,108 @@
-# Hyacinthe Waboe
+<h1 align="center">Salut, moi c'est Hyacinthe Waboe ! 👋</h1>
 
-Étudiant en Licence 3 MIASHS à l'Université Toulouse - Jean Jaurès, parcours Ingénierie logicielle et Science des données.
+<h3 align="center">
+  Étudiant en MIASHS · Développement logiciel · Data · IA
+</h3>
 
-Je développe des applications en Python, C++ et JavaScript, avec un intérêt particulier pour l'architecture logicielle, la recherche d'information et les projets qui relient données et usages concrets. Je recherche une alternance pour poursuivre en master à partir de 2026.
+<p align="center">
+  J'aime comprendre comment les choses fonctionnent, construire des projets utiles<br>
+  et transformer une idée un peu floue en une application qui fonctionne vraiment.
+</p>
 
-## Compétences
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+</p>
 
-| Domaine | Technologies |
+---
+
+## 🎓 Qui suis-je ?
+
+Je termine ma **Licence 3 MIASHS** à l'Université Toulouse - Jean Jaurès, dans un parcours mêlant **ingénierie logicielle** et **science des données**.
+
+Mon profil se situe à la rencontre de plusieurs univers :
+
+- 💻 développer des applications propres et compréhensibles ;
+- 📊 exploiter les données pour répondre à des problèmes concrets ;
+- 🤖 découvrir l'intelligence artificielle sans oublier ses limites ;
+- 🧩 réfléchir à l'architecture avant d'empiler du code ;
+- 🚀 apprendre en réalisant des projets de plus en plus complets.
+
+Je recherche une **alternance pour poursuivre en master à partir de 2026**, dans le développement, la data ou l'ingénierie logicielle.
+
+## 🧰 Ma boîte à outils
+
+| Domaine | Technologies et notions |
 |---|---|
-| Développement | Python, C++, JavaScript, SQL, R |
-| Web | FastAPI, Next.js, React, HTML, CSS |
-| Données et IA | Pandas, NumPy, FAISS, BM25, RAG |
-| Conception | POO, UML, architecture MVC, tests unitaires |
-| Outils | Git, GitHub, Make, Moodle, MongoDB, SQLite |
+| **Développement** | Python, C++, JavaScript, SQL, R |
+| **Web** | FastAPI, Next.js, React, HTML, CSS |
+| **Data et IA** | Pandas, NumPy, FAISS, BM25, RAG |
+| **Bases de données** | MongoDB, SQLite |
+| **Conception** | POO, UML, MVC, tests unitaires |
+| **Outils** | Git, GitHub, Make, Moodle |
 
-## Projets sélectionnés
+## 🌟 Mes projets
 
-### [Assistant RAG pour Moodle](https://github.com/hyacinthe-waboe/assistant-rag-moodle)
+### 🤖 [Assistant RAG pour Moodle](https://github.com/hyacinthe-waboe/assistant-rag-moodle)
 
-Prototype réalisé pendant mon stage de Licence 3 : plugin Moodle et backend FastAPI capables d'interroger les PDF d'un cours. Le projet combine embeddings locaux, recherche hybride FAISS et BM25/RRF, citations des sources, indexation asynchrone et génération via ILAAS ou Ollama.
+**Mon projet de stage de Licence 3 et mon projet le plus complet à ce jour.**
 
-### [DreamPark](https://github.com/hyacinthe-waboe/Projet_DreamPark-Simulation-Python)
+Un assistant pédagogique intégré à Moodle, capable de répondre aux questions des étudiants à partir des PDF d'un cours tout en citant ses sources.
 
-Simulation Python d'un parking intelligent avec attribution de places, services annexes, statistiques, persistance SQLite/CSV et interface CustomTkinter. Le projet est couvert par 119 tests unitaires.
+`Python` · `FastAPI` · `Moodle` · `FAISS` · `BM25/RRF` · `Ollama` · `ILAAS`
 
-### [Auto-Battler Engine](https://github.com/hyacinthe-waboe/AutoBattler-Engine-CPP)
+> Embeddings locaux, recherche hybride, indexation asynchrone, OCR optionnel et 50 tests automatisés, avec une attention particulière portée à la souveraineté des données.
 
-Moteur de tournoi en C++ fondé sur la programmation orientée objet, le polymorphisme, une Factory de héros et la gestion dynamique de la mémoire.
+### 🅿️ [DreamPark](https://github.com/hyacinthe-waboe/Projet_DreamPark-Simulation-Python)
 
-### [League of Stones](https://github.com/hyacinthe-waboe/Projet_League-of-Stones)
+Une simulation de parking intelligent avec attribution automatique des places, abonnements, services, historique, statistiques et interface de supervision.
 
-Jeu de cartes multijoueur avec frontend Next.js, construction de decks, matchmaking, parties au tour par tour et backend Express/MongoDB.
+`Python` · `CustomTkinter` · `SQLite` · `CSV` · `UML`
 
-### [Mon Empreinte Carbone](https://github.com/hyacinthe-waboe/Projet_Web)
+> Un projet construit progressivement en binôme et vérifié par **119 tests unitaires**.
 
-Application web qui estime une empreinte carbone hebdomadaire grâce à l'API Impact CO2 et présente les résultats avec Chart.js.
+### ⚔️ [Auto-Battler Engine](https://github.com/hyacinthe-waboe/AutoBattler-Engine-CPP)
 
-## En ce moment
+Un moteur de tournoi dans lequel des équipes de héros s'affrontent automatiquement selon leurs statistiques, leurs classes et leurs équipements.
 
-- finalisation de ma Licence MIASHS ;
-- approfondissement de Python, du développement web et de l'ingénierie des données ;
-- recherche d'une alternance en développement, data ou ingénierie logicielle.
+`C++` · `POO` · `Polymorphisme` · `Factory` · `Gestion mémoire`
 
-## Contact
+> Mon terrain d'apprentissage pour mieux comprendre l'héritage, les pointeurs et la conception d'un moteur extensible.
 
-- Toulouse, France
-- [waboehyacinthe7@gmail.com](mailto:waboehyacinthe7@gmail.com)
+### 🃏 [League of Stones](https://github.com/hyacinthe-waboe/Projet_League-of-Stones)
+
+Un jeu de cartes multijoueur inspiré de League of Legends, avec création de decks, matchmaking et combats au tour par tour.
+
+`Next.js` · `React` · `Zustand` · `Express` · `MongoDB`
+
+> Un projet de groupe qui m'a permis de travailler sur une interface complète, responsive et connectée à un backend.
+
+### 🌱 [Mon Empreinte Carbone](https://github.com/hyacinthe-waboe/Projet_Web)
+
+Une application web qui estime l'empreinte carbone hebdomadaire d'un utilisateur et l'aide à mieux comprendre son résultat.
+
+`HTML` · `CSS` · `JavaScript` · `Chart.js` · `API Impact CO2`
+
+> Mon premier projet web en groupe, avec appels API, calculs dynamiques et visualisation des résultats.
+
+## 🎯 En ce moment
+
+- 📚 je finalise ma Licence MIASHS ;
+- 🛠️ je consolide mes compétences en Python et développement web ;
+- 🔎 j'explore le RAG, la recherche d'information et l'IA souveraine ;
+- 🤝 je recherche une alternance où je pourrai continuer à apprendre et contribuer.
+
+## 📬 Me contacter
+
+📍 Toulouse, France<br>
+✉️ [waboehyacinthe7@gmail.com](mailto:waboehyacinthe7@gmail.com)
+
+---
+
+<p align="center">
+  Merci d'avoir visité mon profil !<br>
+  Les projets évoluent avec moi, alors n'hésitez pas à repasser. ✨
+</p>
