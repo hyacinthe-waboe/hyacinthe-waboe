@@ -1,68 +1,48 @@
-# 👨‍💻 Hyacinthe WABOE | Ingénierie Logicielle & Science des Données
+# Hyacinthe Waboe
 
-### 🎯 Vers l'optimisation des systèmes et de la donnée
-Actuellement en **L3 MIASHS** à l'Université Toulouse - Jean Jaurès, je me spécialise dans la création de ponts entre le développement robuste et l'analyse statistique rigoureuse. Mon objectif immédiat est d'intégrer un **Master** en alternance pour appliquer ces compétences au secteur industriel.
+Étudiant en Licence 3 MIASHS à l'Université Toulouse - Jean Jaurès, parcours Ingénierie logicielle et Science des données.
 
----
+Je développe des applications en Python, C++ et JavaScript, avec un intérêt particulier pour l'architecture logicielle, la recherche d'information et les projets qui relient données et usages concrets. Je recherche une alternance pour poursuivre en master à partir de 2026.
 
-## 🚀 Ce que je fais au quotidien
-- **Conception Logicielle :** J'aime structurer des projets complexes en utilisant des architectures propres comme le **MVC**.
-- **Exploration de Données :** Je transforme des jeux de données bruts en insights visuels et exploitables via **R** et **Python**.
-- **Résolution de Problèmes :** Passionné par l'algorithmique et l'optimisation, du bas niveau (C++) au scripting haut niveau.
+## Compétences
 
----
+| Domaine | Technologies |
+|---|---|
+| Développement | Python, C++, JavaScript, SQL, R |
+| Web | FastAPI, Next.js, React, HTML, CSS |
+| Données et IA | Pandas, NumPy, FAISS, BM25, RAG |
+| Conception | POO, UML, architecture MVC, tests unitaires |
+| Outils | Git, GitHub, Make, Moodle, MongoDB, SQLite |
 
-## 🧰 Ma Boîte à Outils
+## Projets sélectionnés
 
-| Domaine | Technologies & Méthodes |
-| :--- | :--- |
-| **Langages de programmation** | Python, C++, SQL, R, JavaScript |
-| **Data & Stats** | Pandas, NumPy, Matplotlib, FactoMineR (ACP/AFCM) |
-| **Ingénierie Logicielle** | Architecture MVC, React, POO avancée, UML, Tests unitaires |
-| **Outils & DevOps** | Git (Gestion de versions par branches), Makefile |
+### [Assistant RAG pour Moodle](https://github.com/hyacinthe-waboe/assistant-rag-moodle)
 
----
+Prototype réalisé pendant mon stage de Licence 3 : plugin Moodle et backend FastAPI capables d'interroger les PDF d'un cours. Le projet combine embeddings locaux, recherche hybride FAISS et BM25/RRF, citations des sources, indexation asynchrone et génération via ILAAS ou Ollama.
 
-## 🏗️ Projets Majeurs en Détail
+### [DreamPark](https://github.com/hyacinthe-waboe/Projet_DreamPark-Simulation-Python)
 
-### 🤖 Assistant RAG pour Moodle — Stage de Licence 3
-*Assistant pédagogique capable de répondre à partir des PDF d'un cours Moodle.*
-- **Le défi :** Intégrer une IA utile aux étudiants tout en limitant les hallucinations et l'envoi de documents vers des services tiers.
-- **Ma solution :** Un plugin Moodle relié à un backend FastAPI, avec embeddings locaux, recherche hybride **FAISS + BM25/RRF**, citations des sources et indexation asynchrone.
-- **Le + technique :** Cache SHA-256 par PDF, OCR optionnel, contrôle des réponses sensibles et suite de 50 tests automatisés.
-- **Dépôt :** [assistant-rag-moodle](https://github.com/hyacinthe-waboe/assistant-rag-moodle)
+Simulation Python d'un parking intelligent avec attribution de places, services annexes, statistiques, persistance SQLite/CSV et interface CustomTkinter. Le projet est couvert par 119 tests unitaires.
 
-### 🅿️ DreamPark — Gestion de Parking Intelligente
-*Simulateur complet de flux de véhicules avec interface de supervision.*
-- **Le défi :** Gérer l'attribution dynamique de places avec des contraintes de types de véhicules.
-- **Ma solution :** Une architecture Python 100% orientée objet, documentée via PyDoc et testée rigoureusement.
-- **Le + technique :** Implémentation d'une GUI fluide avec CustomTkinter.
+### [Auto-Battler Engine](https://github.com/hyacinthe-waboe/AutoBattler-Engine-CPP)
 
-### 🎮 Auto-Battler Engine — Moteur de Combat Autonome
-*Système de simulation de combat modulaire en C++.*
-- **Focus :** Maîtrise totale de la mémoire dynamique et des patrons de conception (*Design Patterns*).
-- **Architecture :** Utilisation intensive du polymorphisme pour permettre l'extension facile de nouvelles classes de personnages.
+Moteur de tournoi en C++ fondé sur la programmation orientée objet, le polymorphisme, une Factory de héros et la gestion dynamique de la mémoire.
 
-### 🌱 Mon Empreinte Carbone — Calculateur Écologique Web
-*Application web interactive de sensibilisation à l'empreinte carbone.*
-- **Méthodologie :** Développement frontend (HTML/CSS) et logique en JavaScript avec appels asynchrones à l'API publique Impact CO2.
-- **Résultat :** Un outil de calcul dynamique intégrant des comparaisons visuelles et des graphiques générés avec Chart.js.
+### [League of Stones](https://github.com/hyacinthe-waboe/Projet_League-of-Stones)
 
-### 🃏 League of Stones — Interface React Interactive
-*Jeu de collection de cartes web interactif (basé sur l'univers League of Legends).*
-- **Le défi :** Développer un système de filtrage, de pagination et de création de "deck" personnalisé (limité à 20 cartes).
-- **Ma solution :** Architecture front-end moderne en **React**, gérant les états complexes et la persistance des données du deck utilisateur via le `localStorage`.
-- **Le + technique :** Intégration d'une API REST externe asynchrone et utilisation du routage dynamique (`react-router`) pour la navigation entre les vues de liste et de détail des cartes.
+Jeu de cartes multijoueur avec frontend Next.js, construction de decks, matchmaking, parties au tour par tour et backend Express/MongoDB.
 
----
+### [Mon Empreinte Carbone](https://github.com/hyacinthe-waboe/Projet_Web)
 
-## 📈 Mes Objectifs pour 2026
-- 🎓 Valider ma Licence MIASHS avec mention.
-- 🤝 Décrocher un contrat d'alternance en **Ingénierie Data**.
-- 🛠️ Continuer à enrichir ma bibliothèque de projets Open Source ici même.
+Application web qui estime une empreinte carbone hebdomadaire grâce à l'API Impact CO2 et présente les résultats avec Chart.js.
 
----
+## En ce moment
 
-## 📫 Contactez-moi
-- **Email :** waboehyacinthe7@gmail.com
-- **Localisation :** Toulouse, France
+- finalisation de ma Licence MIASHS ;
+- approfondissement de Python, du développement web et de l'ingénierie des données ;
+- recherche d'une alternance en développement, data ou ingénierie logicielle.
+
+## Contact
+
+- Toulouse, France
+- [waboehyacinthe7@gmail.com](mailto:waboehyacinthe7@gmail.com)
