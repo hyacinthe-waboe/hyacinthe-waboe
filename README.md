@@ -21,7 +21,7 @@
 
 ## 🎓 Qui suis-je ?
 
-Je termine ma **Licence 3 MIASHS** à l'Université Toulouse - Jean Jaurès, dans un parcours mêlant **ingénierie logicielle** et **science des données**.
+Je suis en **Master 1 MIAGE** à l'Université Capitole, dans un parcours mêlant **Développement** et **science des données**.
 
 Mon profil se situe à la rencontre de plusieurs univers :
 
