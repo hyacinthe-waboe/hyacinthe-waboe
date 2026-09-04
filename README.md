@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Hyacinthe Waboe ! 👋</h1>
 
 <h3 align="center">
-  Étudiant en MIASHS · Développement logiciel · Data · IA
+  Étudiant en Master 1 MIAGE à l'Université Toulouse Capitole · Développement logiciel · Data · IA
 </h3>
 
 <p align="center">
@@ -15,13 +15,14 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
 </p>
 
 ---
 
 ## 🎓 Qui suis-je ?
 
-Je suis en **Master 1 MIAGE** à l'Université Capitole, dans un parcours mêlant **Développement** et **science des données**.
+Je suis en **Master 1 MIAGE** à l'**Université Toulouse Capitole**, dans un parcours mêlant **développement** et **science des données**.
 
 Mon profil se situe à la rencontre de plusieurs univers :
 
@@ -31,7 +32,7 @@ Mon profil se situe à la rencontre de plusieurs univers :
 - 🧩 réfléchir à l'architecture avant d'empiler du code ;
 - 🚀 apprendre en réalisant des projets de plus en plus complets.
 
-Je recherche une **alternance pour poursuivre en master à partir de 2026**, dans le développement, la data ou l'ingénierie logicielle.
+Je recherche une **alternance dans le cadre de mon Master MIAGE**, dans le développement, la data ou l'ingénierie logicielle.
 
 ## 🧰 Ma boîte à outils
 
@@ -90,10 +91,10 @@ Une application web qui estime l'empreinte carbone hebdomadaire d'un utilisateur
 
 ## 🎯 En ce moment
 
-- 📚 je finalise ma Licence MIASHS ;
+- 📚 je poursuis mon Master 1 MIAGE à l'Université Toulouse Capitole ;
 - 🛠️ je consolide mes compétences en Python et développement web ;
 - 🔎 j'explore le RAG, la recherche d'information et l'IA souveraine ;
-- 🤝 je recherche une alternance où je pourrai continuer à apprendre et contribuer.
+- 🤝 je recherche une alternance dans le cadre de mon Master MIAGE où je pourrai continuer à apprendre et contribuer.
 
 ## 📬 Me contacter
 
