@@ -73,6 +73,14 @@ Un moteur de tournoi dans lequel des équipes de héros s'affrontent automatique
 
 > Mon terrain d'apprentissage pour mieux comprendre l'héritage, les pointeurs et la conception d'un moteur extensible.
 
+### 💹 [Broker Financier](https://github.com/hyacinthe-waboe/broker-financier)
+
+Une simulation client-serveur en C pour consulter des produits financiers, acheter et revendre des actions, avec un portefeuille par connexion et plusieurs clients simultanés.
+
+`C` · `Sockets TCP` · `Threads POSIX` · `Make`
+
+> Un projet en trinôme pour mettre en pratique la programmation système et réseau, les contrôles des transactions et la journalisation côté serveur.
+
 ### 🃏 [League of Stones](https://github.com/hyacinthe-waboe/Projet_League-of-Stones)
 
 Un jeu de cartes multijoueur inspiré de League of Legends, avec création de decks, matchmaking et combats au tour par tour.
