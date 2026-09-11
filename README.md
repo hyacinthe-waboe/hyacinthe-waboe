@@ -13,9 +13,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL">
 </p>
 
 ---
@@ -24,24 +24,21 @@
 
 Je suis en **Master 1 MIAGE** à l'**Université Toulouse Capitole**, dans un parcours mêlant **développement** et **science des données**.
 
-Mon profil se situe à la rencontre de plusieurs univers :
-
-- 💻 développer des applications propres et compréhensibles ;
-- 📊 exploiter les données pour répondre à des problèmes concrets ;
-- 🤖 découvrir l'intelligence artificielle sans oublier ses limites ;
-- 🧩 réfléchir à l'architecture avant d'empiler du code ;
-- 🚀 apprendre en réalisant des projets de plus en plus complets.
+Mes projets couvrent le **développement web**, la **programmation système et réseau**, ainsi que la **data et l'IA**. J'aime relier la conception à la pratique : modéliser les données, construire une interface, faire communiquer des programmes et comprendre leurs limites.
 
 Je recherche une **alternance dans le cadre de mon Master MIAGE**, dans le développement, la data ou l'ingénierie logicielle.
 
 ## 🧰 Ma boîte à outils
 
+Technologies et notions utilisées au fil de mes projets et de ma formation.
+
 | Domaine | Technologies et notions |
 |---|---|
-| **Développement** | Python, C++, JavaScript, SQL, R |
-| **Web** | FastAPI, Next.js, React, HTML, CSS |
+| **Langages** | Python, C, C++, JavaScript, PHP, SQL, R |
+| **Web** | React, Next.js, Symfony, FastAPI, Express, HTML, CSS, Tailwind CSS |
 | **Data et IA** | Pandas, NumPy, FAISS, BM25, RAG |
-| **Bases de données** | MongoDB, SQLite |
+| **Bases de données** | PostgreSQL, MongoDB, SQLite |
+| **Système et réseau** | Sockets TCP, threads POSIX, architecture client-serveur |
 | **Conception** | POO, UML, MVC, tests unitaires |
 | **Outils** | Git, GitHub, Make, Moodle |
 
@@ -49,7 +46,7 @@ Je recherche une **alternance dans le cadre de mon Master MIAGE**, dans le déve
 
 ### 🤖 [Assistant RAG pour Moodle](https://github.com/hyacinthe-waboe/assistant-rag-moodle)
 
-**Mon projet de stage de Licence 3 et mon projet le plus complet à ce jour.**
+**Mon projet de stage de Licence 3.**
 
 Un assistant pédagogique intégré à Moodle, capable de répondre aux questions des étudiants à partir des PDF d'un cours tout en citant ses sources.
 
@@ -107,10 +104,9 @@ Une application web qui estime l'empreinte carbone hebdomadaire d'un utilisateur
 
 ## 🎯 En ce moment
 
-- 📚 je poursuis mon Master 1 MIAGE à l'Université Toulouse Capitole ;
-- 🛠️ je consolide mes compétences en Python et développement web ;
+- 🛠️ je consolide mes compétences en développement logiciel et web ;
 - 🔎 j'explore le RAG, la recherche d'information et l'IA souveraine ;
-- 🤝 je recherche une alternance dans le cadre de mon Master MIAGE où je pourrai continuer à apprendre et contribuer.
+- 🧩 j'améliore mes projets et leur documentation pour rendre mon travail plus facile à comprendre.
 
 ## 📬 Me contacter
 
