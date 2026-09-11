@@ -81,6 +81,14 @@ Un jeu de cartes multijoueur inspiré de League of Legends, avec création de de
 
 > Un projet de groupe qui m'a permis de travailler sur une interface complète, responsive et connectée à un backend.
 
+### 🏥 [Olympe](https://github.com/hyacinthe-waboe/Projet_Olympe)
+
+Une application web de télésecrétariat médical qui centralise les patients, les rendez-vous, les messages et les tâches, avec un espace administrateur et un espace secrétaire.
+
+`React` · `Symfony` · `PHP` · `Tailwind CSS` · `PostgreSQL`
+
+> Un projet universitaire en groupe pour travailler l'architecture client-serveur et les parcours du secrétariat médical, avec une simulation d'appels et un historique enregistré en base.
+
 ### 🌱 [Mon Empreinte Carbone](https://github.com/hyacinthe-waboe/Projet_Web)
 
 Une application web qui estime l'empreinte carbone hebdomadaire d'un utilisateur et l'aide à mieux comprendre son résultat.
