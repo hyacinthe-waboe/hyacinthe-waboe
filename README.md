@@ -104,9 +104,9 @@ Une application web qui estime l'empreinte carbone hebdomadaire d'un utilisateur
 
 ## 🎯 En ce moment
 
-- 🛠️ je consolide mes compétences en développement logiciel et web ;
-- 🔎 j'explore le RAG, la recherche d'information et l'IA souveraine ;
-- 🧩 j'améliore mes projets et leur documentation pour rendre mon travail plus facile à comprendre.
+- 🎓 je suis en **Master 1 MIAGE à l'Université Toulouse Capitole** ;
+- 💻 j'approfondis mes connaissances en développement logiciel et en bases de données dans le cadre de ma formation ;
+- 🤝 je recherche une **alternance en développement, data ou ingénierie logicielle** pour mon Master MIAGE.
 
 ## 📬 Me contacter
 
