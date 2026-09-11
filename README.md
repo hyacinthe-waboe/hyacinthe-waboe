@@ -44,7 +44,7 @@ Technologies et notions utilisées au fil de mes projets et de ma formation.
 
 ## 🌟 Mes projets
 
-### 🤖 [Assistant RAG pour Moodle](https://github.com/hyacinthe-waboe/assistant-rag-moodle)
+### 🤖 [Assistant RAG pour Moodle](https://github.com/hyacinthe-waboe/projet-assistant-rag-moodle)
 
 **Mon projet de stage de Licence 3.**
 
@@ -54,7 +54,7 @@ Un assistant pédagogique intégré à Moodle, capable de répondre aux question
 
 > Embeddings locaux, recherche hybride, indexation asynchrone, OCR optionnel et 50 tests automatisés, avec une attention particulière portée à la souveraineté des données.
 
-### 🏥 [Olympe](https://github.com/hyacinthe-waboe/Projet_Olympe)
+### 🏥 [Olympe](https://github.com/hyacinthe-waboe/projet-olympe)
 
 Une application web de télésecrétariat médical qui centralise les patients, les rendez-vous, les messages et les tâches, avec un espace administrateur et un espace secrétaire.
 
@@ -62,7 +62,7 @@ Une application web de télésecrétariat médical qui centralise les patients, 
 
 > Un projet universitaire en groupe pour travailler l'architecture client-serveur et les parcours du secrétariat médical, avec une simulation d'appels et un historique enregistré en base.
 
-### 🃏 [League of Stones](https://github.com/hyacinthe-waboe/Projet_League-of-Stones)
+### 🃏 [League of Stones](https://github.com/hyacinthe-waboe/projet-league-of-stones)
 
 Un jeu de cartes multijoueur inspiré de League of Legends, avec création de decks, matchmaking et combats au tour par tour.
 
@@ -70,7 +70,7 @@ Un jeu de cartes multijoueur inspiré de League of Legends, avec création de de
 
 > Un projet de groupe qui m'a permis de travailler sur une interface complète, responsive et connectée à un backend.
 
-### 🅿️ [DreamPark](https://github.com/hyacinthe-waboe/Projet_DreamPark-Simulation-Python)
+### 🅿️ [DreamPark](https://github.com/hyacinthe-waboe/projet-dreampark)
 
 Une simulation de parking intelligent avec attribution automatique des places, abonnements, services, historique, statistiques et interface de supervision.
 
@@ -78,7 +78,7 @@ Une simulation de parking intelligent avec attribution automatique des places, a
 
 > Un projet construit progressivement en binôme et vérifié par **119 tests unitaires**.
 
-### 💹 [Broker Financier](https://github.com/hyacinthe-waboe/broker-financier)
+### 💹 [Broker Financier](https://github.com/hyacinthe-waboe/projet-broker-financier)
 
 Une simulation client-serveur en C pour consulter des produits financiers, acheter et revendre des actions, avec un portefeuille par connexion et plusieurs clients simultanés.
 
@@ -86,7 +86,7 @@ Une simulation client-serveur en C pour consulter des produits financiers, achet
 
 > Un projet en trinôme pour mettre en pratique la programmation système et réseau, les contrôles des transactions et la journalisation côté serveur.
 
-### ⚔️ [Auto-Battler Engine](https://github.com/hyacinthe-waboe/AutoBattler-Engine-CPP)
+### ⚔️ [Auto-Battler Engine](https://github.com/hyacinthe-waboe/projet-auto-battler)
 
 Un moteur de tournoi dans lequel des équipes de héros s'affrontent automatiquement selon leurs statistiques, leurs classes et leurs équipements.
 
@@ -94,7 +94,7 @@ Un moteur de tournoi dans lequel des équipes de héros s'affrontent automatique
 
 > Mon terrain d'apprentissage pour mieux comprendre l'héritage, les pointeurs et la conception d'un moteur extensible.
 
-### 🌱 [Mon Empreinte Carbone](https://github.com/hyacinthe-waboe/Projet_Web)
+### 🌱 [Mon Empreinte Carbone](https://github.com/hyacinthe-waboe/projet-empreinte-carbone)
 
 Une application web qui estime l'empreinte carbone hebdomadaire d'un utilisateur et l'aide à mieux comprendre son résultat.
 
