@@ -36,8 +36,8 @@ Technologies et notions utilisées au fil de mes projets et de ma formation.
 |---|---|
 | **Langages** | Python, C, C++, JavaScript, PHP, SQL, R |
 | **Web** | React, Next.js, Symfony, FastAPI, Express, HTML, CSS, Tailwind CSS |
-| **Data et IA** | Pandas, NumPy, FAISS, BM25, RAG |
-| **Bases de données** | PostgreSQL, MongoDB, SQLite |
+| **Data et IA** | Pandas, NumPy, FAISS, BM25, RAG, Power BI, Power Query, DAX |
+| **Bases de données** | PostgreSQL, MongoDB, SQLite, Oracle, PL/SQL |
 | **Système et réseau** | Sockets TCP, threads POSIX, architecture client-serveur |
 | **Conception** | POO, UML, MVC, tests unitaires |
 | **Outils** | Git, GitHub, Make, Moodle |
@@ -53,6 +53,14 @@ Un assistant pédagogique intégré à Moodle, capable de répondre aux question
 `Python` · `FastAPI` · `Moodle` · `FAISS` · `BM25/RRF` · `Ollama` · `ILAAS`
 
 > Embeddings locaux, recherche hybride, indexation asynchrone, OCR optionnel et 50 tests automatisés, avec une attention particulière portée à la souveraineté des données.
+
+### ☀️ [Direction Soleil](https://github.com/hyacinthe-waboe/projet-direction-soleil)
+
+Un projet de bases de données et d'analyse décisionnelle pour une agence de voyages : modéliser les circuits et les réservations, interroger les données et les présenter dans trois tableaux de bord.
+
+`Oracle` · `SQL` · `PL/SQL` · `Power BI` · `Power Query` · `DAX`
+
+> Un projet en groupe de Master 1 MIAGE, de la création d'une base relationnelle de 23 tables à l'analyse du chiffre d'affaires, du remplissage des départs et des destinations.
 
 ### 🏥 [Olympe](https://github.com/hyacinthe-waboe/projet-olympe)
 
